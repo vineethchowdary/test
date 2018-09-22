@@ -20,7 +20,7 @@ export class ProductListComponent{
 
     }
 
-    pageTitle: string = 'vineeth Product List';
+    pageTitle: string = 'vineeth List';
     imageWidth: number = 50;
     imageMargin: number = 2;
 
